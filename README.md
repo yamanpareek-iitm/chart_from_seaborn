@@ -2,7 +2,7 @@
 
 This repository contains:
 - chart.py: Python script generating a Seaborn scatterplot
-- chart.png: 512x512 pixels
-- README.md: **24f2000846@ds.study.iitm.ac.in**
+- chart.png: Generated chart (512x512px)
+- README.md: [24f2000846@ds.study.iitm.ac.in]
 
-
+**Email:** 24f2000846@ds.study.iitm.ac.in
